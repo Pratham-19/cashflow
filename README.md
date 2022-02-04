@@ -1,4 +1,4 @@
-# cashflow
+# PotOfCash
 
 A new Flutter project.
 
